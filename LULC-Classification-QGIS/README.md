@@ -17,14 +17,13 @@ The classification identifies major land cover classes including:
 - Loaded satellite imagery into QGIS  
 - Created band set using SCP  
 - Defined training samples (ROIs) for each class  
-- Applied supervised classification (e.g., Random Forest / Maximum Likelihood)  
+- Applied supervised classification  
 - Generated final classified map  
 
-## 🗺️ Output
-Below is the final LULC classification result:
+## 🗺️ Final Output
 
-![LULC Classification](LULC_QGIS.png)
+<img src="./LULC_QGIS.png" alt="LULC Classification Map" width="1000"/>
 
 ## 📌 Notes
 - Training samples were manually created for each class  
-- Classification accuracy depends on quality of training data  
+- Classification accuracy depends on the quality of training data  
