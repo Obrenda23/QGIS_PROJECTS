@@ -44,7 +44,7 @@ This map shows spatial variation in water flow across the watershed, highlightin
 ### 2. Sediment Transport Patterns
 This map illustrates sediment movement through the watershed, showing accumulation toward the downstream outlet.
 
-![Sediment_inflow_Map](sediment map.png)
+![Sediment_inflow_Map](Sediment map.png)
 
 ---
 
