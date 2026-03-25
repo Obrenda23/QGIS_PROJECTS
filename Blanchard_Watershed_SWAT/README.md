@@ -93,6 +93,13 @@ This project demonstrates the importance of hydrological modeling for flood risk
 
 ---
 
+## 📄 Full Project Poster
+The complete project poster summarizing the study is shown below:
+
+![Blanchard Watershed Poster](poster.png)
+
+---
+
 ## 👩🏽‍💻 Author
 Brenda Ongera  
 Geospatial Data Scientist | GIS Analyst | Remote Sensing & Environmental Modeling
