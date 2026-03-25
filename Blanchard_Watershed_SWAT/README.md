@@ -44,7 +44,7 @@ This map shows spatial variation in water flow across the watershed, highlightin
 ### 2. Sediment Transport Patterns
 This map illustrates sediment movement through the watershed, showing accumulation toward the downstream outlet.
 
-![Sediment Map](sediment_map.png)
+![Sediment Map](sediment map.png)
 
 ---
 
@@ -53,7 +53,7 @@ This map illustrates sediment movement through the watershed, showing accumulati
 ### 3. Precipitation vs Discharge
 This graph shows the relationship between rainfall and river discharge. Heavy rainfall events lead to significant spikes in discharge, indicating rapid runoff response.
 
-![Precipitation vs Discharge](precipitation_discharge.png)
+![Precipitation vs Discharge](precipitation_vs_discharge.png)
 
 ---
 
@@ -62,7 +62,7 @@ Varying the Curve Number (CN2) significantly affects runoff behavior:
 - Increasing CN2 → higher and sharper runoff peaks  
 - Decreasing CN2 → lower peaks and improved infiltration  
 
-![CN2 Impact](cn2_runoff.png)
+![CN2 Impact](CN2_impact.png)
 
 ---
 
