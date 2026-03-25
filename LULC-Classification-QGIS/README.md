@@ -1,4 +1,3 @@
-
 # 🌍 Land Use Land Cover (LULC) Classification using QGIS
 
 ## 📌 Overview
@@ -24,7 +23,7 @@ The classification identifies major land cover classes including:
 ## 🗺️ Output
 Below is the final LULC classification result:
 
-![LULC Classification](outputs/classification_map.png)
+![LULC Classification](LULC_QGIS.png)
 
 ## 📌 Notes
 - Training samples were manually created for each class  
