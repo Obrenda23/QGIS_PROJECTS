@@ -35,7 +35,7 @@ Model calibration was performed using observed streamflow data. The Curve Number
 ## 🗺️ Spatial Analysis Outputs
 
 ### 1. Peak Flow Distribution
-This map shows  high water flow from the upstream areas (blue) towards the outlet (green), indicating a higherflood risk in the downstream region during heavy rainfall events.
+This map shows  high water flow from the upstream areas (blue) towards the outlet (green), indicating a higher flood risk in the downstream region during heavy rainfall events.
 
 ![Peak Flow Map](peak_flow_map.png)
 
