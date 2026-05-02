@@ -35,15 +35,14 @@ Model calibration was performed using observed streamflow data. The Curve Number
 ## 🗺️ Spatial Analysis Outputs
 
 ### 1. Peak Flow Distribution
-This map shows spatial variation in water flow across the watershed, highlighting areas of high discharge and flood risk.
+This map shows  high water flow from the upstream areas (blue) towards the outlet (green), indicating a higherflood risk in the downstream region during heavy rainfall events.
 
 ![Peak Flow Map](peak_flow_map.png)
 
 ---
 
 ### 2. Sediment Transport Patterns
-This map illustrates sediment movement through the watershed, showing accumulation toward the downstream outlet.
-
+This map shows increased sediment inflow in the main channel (blue), which intensifies downstream towards the outlet, suggesting that sediment is transported from the upstream areas (green) and accumulates near the river’s mouth
 ![Sediment Transport Map](sediment_inflow_map.png)
 
 ---
